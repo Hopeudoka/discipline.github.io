@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
+img {
+    margin-top: 50px;
+    height: 300px;
+    width: 250px;
+}
+
+#text {
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+
+#question {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+#button {
+    display: flex;
+    justify-content: center;
+}
+
+#button button {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+#progress {
+    display: flex;
+    justify-content: center;
+}
+
+#progress p {
+    margin-right: 10px;
+}
